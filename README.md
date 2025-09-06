@@ -2,7 +2,9 @@
 
 <img width="1213" height="798" alt="image" src="https://github.com/user-attachments/assets/583aadc7-c4cc-4912-b215-51ca36a99dab" />
 
+
 <img width="1433" height="686" alt="image" src="https://github.com/user-attachments/assets/57d334ea-8130-4657-b353-9eb1021430a2" />
+
 
 <img width="1335" height="716" alt="image" src="https://github.com/user-attachments/assets/7abbb268-7ac4-4f3b-9177-8850b5be3989" />
 
@@ -11,6 +13,12 @@
 
 
 <img width="1192" height="1000" alt="image" src="https://github.com/user-attachments/assets/611e480c-e398-4195-9482-107964fced5e" />
+
+
+<img width="1061" height="608" alt="image" src="https://github.com/user-attachments/assets/8692cda7-e28d-4d4f-9e15-cb2c1c61df48" />
+
+
+
 
 
 
@@ -266,6 +274,6 @@ FROM user_first_events
 WHERE event_occurrence = 1  -- Only count first occurrence of each event type per user
 GROUP BY event_type, event_order, country
 ORDER BY event_order, country;
-
-finally, I copied the table from mysql upload in excel 
+ 
+finally, using python, I generated  the funnel chat and I also copied the table from mysql, upload in excel 
 insert funnel and it was created automatically.
