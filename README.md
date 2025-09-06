@@ -2,6 +2,18 @@
 
 <img width="1213" height="798" alt="image" src="https://github.com/user-attachments/assets/583aadc7-c4cc-4912-b215-51ca36a99dab" />
 
+<img width="1433" height="686" alt="image" src="https://github.com/user-attachments/assets/57d334ea-8130-4657-b353-9eb1021430a2" />
+
+<img width="1335" height="716" alt="image" src="https://github.com/user-attachments/assets/7abbb268-7ac4-4f3b-9177-8850b5be3989" />
+
+
+<img width="1325" height="682" alt="image" src="https://github.com/user-attachments/assets/275ba318-96ae-4e30-b732-689d34c4f59a" />
+
+
+<img width="1192" height="1000" alt="image" src="https://github.com/user-attachments/assets/611e480c-e398-4195-9482-107964fced5e" />
+
+
+
 
 
 
@@ -34,15 +46,21 @@ Key Findings
 5. Category Performance
 •	Apparel Dominance: 42% of all product views were in apparel categories
 •	High-Value Consideration: Electronics and accessories showed longer time-to-purchase (average 3.2 sessions)
+
+
 Behavioral Insights & Hypotheses
 Insight 1: Mobile Experience Friction
 •	Observation: Mobile users exhibit 57% lower checkout completion rates compared to desktop users, despite generating 72% of total sessions.
 •	Hypothesis: The mobile checkout experience may have usability issues—form complexity, payment processing limitations, or lack of saved payment information—causing abandonment among on-the-go users who prefer quick transactions.
 •	Recommended Action: Implement mobile-optimized one-click checkout, address form field constraints, and add digital wallet options (Google Pay/Apple Pay).
+
+
 Insight 2: High Cart Abandonment in High-Consideration Categories
 •	Observation: Electronics and lifestyle accessories show 35% higher cart abandonment rates compared to apparel, despite similar add-to-cart rates.
 •	Hypothesis: Users may be conducting research or price comparisons on higher-ticket items ($50+), using the cart as a "save for later" feature rather than immediate purchase intent.
 •	Recommended Action: Introduce cart-saving functionality, price-drop notifications, and display trust signals (return policies, reviews) specifically for high-value product pages.
+
+
 Insight 3: Geographic Payment Behavior Variations
 •	Observation: Users from India and Brazil show 40% higher checkout abandonment specifically at payment method selection.
 •	Hypothesis: Limited payment method options (lack of local preferred methods like UPI in India or Boleto in Brazil) may create friction for international users.
@@ -65,8 +83,12 @@ Strategic Recommendations
 •	Retargeting Opportunities
 •	Develop abandoned cart email sequences focused on category-specific objections
 •	Implement browser push notifications for saved cart item
+
+
 Methodology Summary
-This analysis examines user behavioral data from an e-commerce platform spanning November 2020 to January 2021. The dataset contains 1,000+ user events across multiple countries, devices, and product categories. Key methodologies employed:
+This analysis examines user behavioral data from an e-commerce platform spanning November 2020 to January 2021. The dataset contains 1,000+ user events across multiple countries, devices, and product categories. 
+
+Key methodologies employed:
 •	Data Processing: Cleaned and deduplicated event data, standardized country names, and categorized events into conversion funnel stages
 •	Funnel Analysis: Tracked user progression from initial visit → product views → cart additions → checkout → purchase
 •	Segmentation Analysis: Examined behavior by device type (mobile vs. desktop), geographic region, and product category
